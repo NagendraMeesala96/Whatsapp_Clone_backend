@@ -1,4 +1,4 @@
-# WhatsApp Clone Backend - The Indian Dev
+# WhatsApp Clone Backend - Rock Nagendra
 
 ### What is this repository for? ###
 
